@@ -26,3 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimak659&show_icons=true&locale=en" alt="naimak659" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimak659&" alt="naimak659" /></p>
+
