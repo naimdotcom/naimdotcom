@@ -9,7 +9,9 @@
 
 - ⚡ Fun fact **I'm passionate about math and solving problems!**
 <br >
+
 # 🍕 Connect with me:
+
 <p align="left">
 <a href="https://twitter.com/naimak659" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naimak659" height="30" width="40" /></a>
 <a href="https://instagram.com/naimak659" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimak659" height="30" width="40" /></a>
