@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Naim AK</h1>
+<h3 align="center">Exploring the MERN Stack for Modern Web Development</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimak659&label=Profile%20views&color=0e75b6&style=flat" alt="naimak659" /> </p>
+
+<p align="left"> <a href="https://twitter.com/naimak659" target="blank"><img src="https://img.shields.io/twitter/follow/naimak659?logo=twitter&style=for-the-badge" alt="naimak659" /></a> </p>
+
+
 # 💫 About Me:
 -🔭 I’m currently working on **many projects**
 
