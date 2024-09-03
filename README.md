@@ -35,7 +35,7 @@
 
 <h2><samp>&gt; Contact me</samp></h2>
 <div>
-<img src="https://user-images.githubusercontent.com/57133330/188281501-2b011708-bc37-40aa-8e34-c0b41d5cc089.gif" align="right" height="200px">
+<img src="https://user-images.githubusercontent.com/57133330/188281501-2b011708-bc37-40aa-8e34-c0b41d5cc089.gif" align="right" height="150px" >
     <br>
     <p align="center"> <a href="https://twitter.com/naimakdotcom" target="blank"><img src="https://img.shields.io/twitter/follow/naimak659?logo=twitter&style=for-the-badge" alt="naimak659" /></a> 
      <a href="https://twitter.com/naimakdotcom" target="blank"><img src="https://img.shields.io/badge/naimak659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
