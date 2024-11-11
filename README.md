@@ -63,11 +63,16 @@
 
 </p>
 <details align="left">
-    <summary> <samp style="font-size:18px;">&#9776; Github Stats</samp></summary>
+    <summary> <samp style="font-size:18px;">   click here to open &#9776; Github Stats</samp></summary>
     <p align="center">
         <!-- <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimak659&show_icons=true&locale=en&layout=compact" alt="naimak659" /> -->
         <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=naimdotcom&show_icons=true&locale=en" alt="naimak659">
+ <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimdotcom&layout=compact" alt="naimak659">
         <!-- <img align="center" height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=naimak659&" alt="naimak659" /> -->
+        
+![Top Langs]()
+    </p>
+    <p align="center"> 
     </p>
 
   </details>
@@ -75,7 +80,6 @@
 
 <!-- ===== github stats E ===== -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimdotcom&layout=compact)
 
 <!-- ===== contact me part ===== -->
 
