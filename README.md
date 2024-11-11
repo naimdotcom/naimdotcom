@@ -75,6 +75,8 @@
 
 <!-- ===== github stats E ===== -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimdotcom&layout=compact)
+
 <!-- ===== contact me part ===== -->
 
 <h2><samp>&gt; Contact me</samp></h2>
