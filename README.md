@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 - 💬 Ask me about **Math and Science**
-- 📫 How to reach me **naimak659@gmail.com**
+- 📫 How to reach me **naimdotcom.business@gmail.com**
 - ⚡ Fun fact **I'm passionate about math and solving problems!**
 </div>
 
@@ -69,8 +69,6 @@
         <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=naimdotcom&show_icons=true&locale=en" alt="naimak659">
  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimdotcom&layout=compact" alt="naimak659">
         <!-- <img align="center" height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=naimak659&" alt="naimak659" /> -->
-        
-![Top Langs]()
     </p>
     <p align="center"> 
     </p>
