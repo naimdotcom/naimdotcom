@@ -78,6 +78,14 @@
 
 <!-- ===== github stats E ===== -->
 
+<!-- ===== githubstates===== -->
+
+<h2><samp>&gt; Details About Me</samp></h2>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimdotcom&theme=dark" width="100%">
+</p>
+
 
 <!-- ===== contact me part ===== -->
 
