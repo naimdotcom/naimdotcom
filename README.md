@@ -1,5 +1,3 @@
-<h1 align="center">Hi <img src="./assets/meow_wave_peak.png" height="26" />, I'm Naim Islam</h1>
-
 <img src="./assets/github banner.png"/>
 <h3 align="center">A Computer Science student passionate about modern web development with the MERN Stack.</h3>
 
