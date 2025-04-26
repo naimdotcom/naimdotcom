@@ -1,100 +1,75 @@
-<h1 align="center">Hi <img src="./assets/meow_wave_peak.png" height=26/>, I'm Naim AK</h1>
-<h3 align="center">A Computer Science student and modern web development with the MERN Stack.</h3>
+<h1 align="center">Hi <img src="./assets/meow_wave_peak.png" height="26" />, I'm Naim Islam</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimak659&label=Profile%20views&color=0e75b6&style=flat" alt="naimak659" /> </p>
-<div>
-
-- 🌱 I’m currently learning **Computer Science**
-- 💬 Ask me about **Math and Science**
-- 📫 How to reach me **naimdotcom.business@gmail.com**
-- ⚡ Fun fact **I'm passionate about math and solving problems!**
-</div>
-
-<!-- ===== language and tools Part ===== -->
-<h2 ><samp>&gt; Languages and Tools:</samp></h2>
-<div>
-<img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" align="right" height="150px">
-    <br>
-<p align="left" class='font-size:""'>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-<!-- ===== language and tools Part E ===== -->
-
-<!-- ===== github stats ===== -->
-
-</p>
-<details align="left">
-    <summary> <samp style="font-size:18px;">   click here to open &#9776; Github Stats</samp></summary>
-    <p align="center">
-        <!-- <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimak659&show_icons=true&locale=en&layout=compact" alt="naimak659" /> -->
-        <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=naimdotcom&show_icons=true&locale=en" alt="naimak659">
- <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimdotcom&layout=compact" alt="naimak659">
-        <!-- <img align="center" height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=naimak659&" alt="naimak659" /> -->
-    </p>
-    <p align="center"> 
-    </p>
-
-  </details>
-</div>
-
-<!-- ===== github stats E ===== -->
-
-<!-- ===== githubstates===== -->
-
-<h2><samp>&gt; Details About Me</samp></h2>
+<img src="./assets/github banner.png"/>
+<h3 align="center">A Computer Science student passionate about modern web development with the MERN Stack.</h3>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimdotcom&theme=dark" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=naimak659&label=Profile%20views&color=0e75b6&style=flat" alt="naimak659" />
 </p>
 
+## 🧑‍💻 About Me
 
-<!-- ===== contact me part ===== -->
+- 🎓 Pursuing **BSc in Computer Science**
+- 🌱 Currently learning: **Machine Learning and DSA**
+- 💼 Working on: **Remote and Contract based project**
+- 💬 Ask me about: **JavaScript, React, TypeScript, Firebase, and UI/UX design**
+- 📧 Reach me at: **naimak659@gmail.com**
+- ⚡ Fun fact: I love solving math problems and optimizing user experiences!
 
-<h2><samp>&gt; Contact me</samp></h2>
-<div>
-<img src="https://user-images.githubusercontent.com/57133330/188281501-2b011708-bc37-40aa-8e34-c0b41d5cc089.gif" align="right" height="150px" >
-    <br>
-    <p align="center"> <a href="https://twitter.com/naimakdotcom" target="blank"><img src="https://img.shields.io/twitter/follow/naimak659?logo=twitter&style=for-the-badge" alt="naimak659" /></a> 
-     <a href="https://twitter.com/naimakdotcom" target="blank"><img src="https://img.shields.io/badge/naimak659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </p>
-    <p align="center" title="またね！">See you! <img src="https://slackmojis.com/emojis/13171-meow_wave/download" height=15/></p></div>
-<!-- ===== contact me E ===== -->
+
+---
+
+## 📈 GitHub Stats
+
+<details>
+  <summary><b>📊 Click here to view my GitHub Stats</b></summary>
+  <p align="center">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=naimdotcom&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimdotcom&theme=dark" alt="Top Languages" />
+  </p>
+</details>
+
+---
+
+## 📋 Profile Summary
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimdotcom&theme=dark" width="100%" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naimdotcom/" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="linkedin Badge"/>
+  </a>
+  <a href="mailto:naimak659@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+<p align="center" title="またね！">See you! <img src="https://slackmojis.com/emojis/13171-meow_wave/download" height="15"/></p>
