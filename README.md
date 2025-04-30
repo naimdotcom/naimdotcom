@@ -1,4 +1,4 @@
-<img src="./assets/github banner.png"/>
+<img src="./assets/github banner Large.png"/>
 <h3 align="center">A Computer Science student passionate about modern web development with the MERN Stack.</h3>
 
 <p align="center">
