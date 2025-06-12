@@ -6,13 +6,12 @@
 </p>
 
 ## 🧑‍💻 About Me
-
-- 🎓 Pursuing **BSc in Computer Science**
-- 🌱 Currently learning: **Machine Learning and DSA**
-- 💼 Working on: **Remote and Contract based project**
-- 💬 Ask me about: **JavaScript, React, TypeScript, Firebase, and UI/UX design**
-- 📧 Reach me at: **naimak659@gmail.com**
-- ⚡ Fun fact: I love solving math problems and optimizing user experiences!
+- 🎓 Pursuing a B.Sc. in Computer Science
+- 🌱 Currently exploring Machine Learning and Data Structures & Algorithms
+- 💼 Working on remote and contract-based projects
+- 💬 Ask me about JavaScript, React, TypeScript, Firebase, and UI/UX Design
+- 📧 Reach me at: naimak659@gmail.com
+- ⚡ Fun fact: I enjoy solving math problems and enhancing user experiences through smart optimizations!
 
 ---
 
