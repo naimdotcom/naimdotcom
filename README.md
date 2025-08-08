@@ -1,21 +1,13 @@
 <img src="./assets/github banner Large.png"/>
-<h3 align="center">A Computer Science student passionate about modern web development with the MERN Stack.</h3>
+<h3 align="center">“I may forget my code, but the skill stays with me.”</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naimak659&label=Profile%20views&color=0e75b6&style=flat" alt="naimak659" />
 </p>
 
-## 🧑‍💻 About Me
-- 🎓 Pursuing a B.Sc. in Computer Science
-- 🌱 Currently exploring Machine Learning and Data Structures & Algorithms
-- 💼 Working on remote and contract-based projects
-- 💬 Ask me about JavaScript, React, TypeScript, Firebase, and UI/UX Design
-- 📧 Reach me at: naimak659@gmail.com
-- ⚡ Fun fact: I enjoy solving math problems and enhancing user experiences through smart optimizations!
-
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -40,19 +32,16 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-<details>
-  <summary><b>📊 Click here to view my GitHub Stats</b></summary>
   <p align="center">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=naimdotcom&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimdotcom&theme=dark" alt="Top Languages" />
   </p>
-</details>
-
+  
 ---
 
-## 📋 Profile Summary
+## Profile Summary
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimdotcom&theme=dark" width="100%" />
@@ -60,7 +49,7 @@
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naimdotcom/" target="_blank">
